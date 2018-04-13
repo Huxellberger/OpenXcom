@@ -170,3 +170,5 @@ It's also been tested on a variety of other tools on Windows/Mac/Linux. More
 detailed compiling instructions are available at the
 [wiki](http://ufopaedia.org/index.php?title=Compiling_(OpenXcom)), along with
 pre-compiled dependency packages.
+
+[Link to VS 2015 dependencies](https://drive.google.com/open?id=1PokK9yaI_fIpmOr3AoTLurSvvy-Ddap1)
